@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: fx-top-up-bot
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: BOT_TOKEN
+        value: 7634927433:AAFEFLNY9sPxpR3Z40hFOkSM51dbNkHbEUk
+      - key: PORT
+        value: 5000
+      - key: ADMIN_ID
+        value: 7832264582
+      - key: ADMIN_CONTACT
+        value: "@rifatbro22"
+      - key: BKASH_NUMBER
+        value: 01965064030
+      - key: NAGAD_NUMBER
+        value: 01937240300
