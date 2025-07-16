@@ -1,0 +1,54 @@
+[
+  {
+    "category": "Evo Access Package",
+    "plans": [
+      { "name": "3 Day Evo Access", "price": "80 BDT" },
+      { "name": "7 Day Evo Access", "price": "120 BDT" },
+      { "name": "30 Day Evo Access", "price": "400 BDT" },
+      { "name": "30 Day Evo Access ×2", "price": "650 BDT" }
+    ]
+  },
+  {
+    "category": "Weekly Lite Package",
+    "plans": [
+      { "name": "Weekly Lite ×1", "price": "45 TK" },
+      { "name": "Weekly Lite ×2", "price": "90 TK" },
+      { "name": "Weekly Lite ×3", "price": "135 TK" },
+      { "name": "Weekly Lite ×5", "price": "225 TK" },
+      { "name": "Weekly Lite ×10", "price": "450 TK" }
+    ]
+  },
+  {
+    "category": "Diamond Top-Up (Only Free Fire)",
+    "plans": [
+      { "name": "25💎", "price": "28 TK" },
+      { "name": "50💎", "price": "45 TK" },
+      { "name": "115💎", "price": "95 TK" },
+      { "name": "240💎", "price": "185 TK" },
+      { "name": "355💎", "price": "270 TK" },
+      { "name": "480💎", "price": "360 TK" },
+      { "name": "610💎", "price": "490 TK" },
+      { "name": "725💎", "price": "595 TK" },
+      { "name": "850💎", "price": "630 TK" },
+      { "name": "1090💎", "price": "805 TK" },
+      { "name": "1240💎", "price": "900 TK" },
+      { "name": "1480💎", "price": "1120 TK" },
+      { "name": "1720💎", "price": "1270 TK" },
+      { "name": "1850💎", "price": "1350 TK" },
+      { "name": "2090💎", "price": "1500 TK" },
+      { "name": "2530💎", "price": "1690 TK" },
+      { "name": "3140💎", "price": "2400 TK" },
+      { "name": "3770💎", "price": "2700 TK" },
+      { "name": "5060💎", "price": "3670 TK" },
+      { "name": "10120💎", "price": "6900 TK" }
+    ]
+  },
+  {
+    "category": "Special",
+    "plans": [
+      { "name": "Weekly", "price": "165 TK" },
+      { "name": "Monthly", "price": "800 TK" },
+      { "name": "Level Up Pass", "price": "170 TK" }
+    ]
+  }
+]
